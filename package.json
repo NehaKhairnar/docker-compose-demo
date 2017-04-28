@@ -1,0 +1,19 @@
+{
+  "name": "branch",
+  "version": "1.0.0",
+  "description": "A short demo on how to use docker-compose to create a Web Service connected to a load balancer and a Redis Database. Be sure to check out my blog post on the full overview - [brianchristner.io](https://www.brianchristner.io/how-to-scale-a-docker-container-with-docker-compose/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NehaKhairnar/docker-compose-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NehaKhairnar/docker-compose-demo/issues"
+  },
+  "homepage": "https://github.com/NehaKhairnar/docker-compose-demo#readme"
+}
